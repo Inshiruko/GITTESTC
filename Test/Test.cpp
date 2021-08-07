@@ -13,6 +13,7 @@ int main()
 {
     int a;
     int b;
+    double c;
     int res;
     std::cout << "Vedite а" << endl;
     std::cin >> a;
